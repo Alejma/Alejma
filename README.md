@@ -7,9 +7,9 @@
 
 ### 🚀 Sobre mí
 
-- 👀 Me apasiona el desarrollo web.
+- 👀 Soy un estudiante de ingenieria en sistemas apasionado al desarrollo web.
 - 🌱 Actualmente estoy aprendiendo **Spring Framework** y mejorando mis habilidades con **Java** y **APIs REST**.
-- 💡 Me interesa colaborar en proyectos de **e-commerce** y **soluciones para la educación**.
+- 💡 Me interesa colaborar en proyectos de **soluciones para la educación**.
 - 🛠️ Trabajo con tecnologías como:
   - `JavaScript` | `Angular` | `React`
   - `Spring Boot` | `Node.js`
@@ -25,6 +25,10 @@
 - 🧠 **Proyectos personales:** [alejmadev.me](https://alejmadev.me) [En construccion]
 
 ---
+![Alejma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejma&theme=dark&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejma&layout=compact&theme=dark&hide_border=false&no-bg=true&no-frame=true)
+
+---
 
 ### 🌟 Repositorios destacados
 
@@ -32,6 +36,7 @@
 - [📊 Análisis de datos de Aguacates](https://github.com/Alejma/ciencia-datos-P2)
 
 ---
+
 
 <p align="center">
   Gracias por visitar mi perfil 💙
